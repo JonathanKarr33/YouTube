@@ -1,0 +1,6 @@
+print("The title is: \"Movie\"")
+print("Hello \nWorld")
+print("Hello \tWorld")
+print("Hello \rWorld")
+print("This is the best \r Python")
+print("This is the best \r\nPython")
