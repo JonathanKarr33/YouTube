@@ -2,6 +2,6 @@
 # python3.9 -m pip install --upgrade pip
 # pip install numpy
 # python3.9 -m pip install numpy
-import numpy as num
+import numpy as np
 # all 0s matrix
-print(num.zeros(2,2))
+print(np.zeros((2,2), dtype = "int32"))
