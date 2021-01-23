@@ -1,0 +1,6 @@
+print(ord("a"))
+print(ord("b"))
+print(ord("A"))
+print(chr(65))
+print(max("AaBbCcDdZz"))
+print(min("AaBbCcDdZz"))
